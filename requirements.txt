@@ -1,0 +1,4 @@
+jupyter==1.1.1
+pyright[nodejs]==1.1.389
+ruff==0.7.4
+voila==0.5.8

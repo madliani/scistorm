@@ -1,0 +1,17 @@
+[project]
+authors = [{ name = "madliani", email = "madliani@hotmail.com" }]
+description = "The SciStorm Notebooks."
+keywords = ["jupyter", "notebooks", "scistorm"]
+license = { file = "LICENSE" }
+maintainers = [{ name = "madliani", email = "madliani@hotmail.com" }]
+name = "scistorm"
+readme = "README.md"
+requires-python = ">=3.12"
+version = "0.9.0"
+
+[project.urls]
+"Bug Tracker" = "https://github.com/madliani/scistorm/issues"
+Changelog = "https://github.com/madliani/scistorm/CHANGELOG.md"
+Documentation = "https://github.com/madliani/scistorm/README.md"
+Homepage = "https://github.com/madliani/scistorm"
+Repository = "https://github.com/madliani/scistorm.git"
