@@ -1,7 +1,7 @@
 [project]
 authors = [{ name = "madliani", email = "madliani@hotmail.com" }]
-description = "The SciStorm Notebooks."
-keywords = ["jupyter", "notebooks", "scistorm"]
+description = "The SciStorm Scripts."
+keywords = ["scistorm"]
 license = { file = "LICENSE" }
 maintainers = [{ name = "madliani", email = "madliani@hotmail.com" }]
 name = "scistorm"
